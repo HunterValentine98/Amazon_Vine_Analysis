@@ -27,6 +27,7 @@ Percentage of non-Vine reviews that were 5 stars = 48.3%
 
 ## Summary
 ### Positivity Bias
+The main goal of this project was to determine that if the people who were part of the Vine program would wrtie better reviews about the product. Weirdly enough, the percentage of 5 star reviews from the Vine group was 34.1 percent while the non-Vine group had a percentage of 48.3% 5 star reviews. This could be because Vine clients were annoyed about the requirement of being forced to write a review. I do not believe that any positivity bias exists within the reviews.
 
 ### Additional Analysis
 
