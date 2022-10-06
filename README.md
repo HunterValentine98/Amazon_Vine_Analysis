@@ -6,12 +6,19 @@ I have access to approximately 50 datasets. Each one contains reviews of a speci
 
 ## Results
 -How many Vine reviews and non-Vine reviews were there?
+
 Vine reviews = 1266
 non-Vine reviews =62028
+
+
 -How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 Vine reviews that were 5 stars = 432
 non-Vine reviews that were 5 stars = 29982
+
+
 -What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
 Percentage of Vine reviews that were 5 stars = 34.1%
 Percentage of non-Vine reviews that were 5 stars = 48.3%
 
